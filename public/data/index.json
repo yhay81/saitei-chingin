@@ -1,0 +1,15 @@
+{
+  "asOf": "2026-08-01",
+  "edition": "2025年度（令和7年度）",
+  "count": 47,
+  "regionCount": 9,
+  "weightedAverage": 1121,
+  "previousWeightedAverage": 1055,
+  "weightedIncrease": 66,
+  "weightedIncreasePercent": 6.3,
+  "minimum": 1023,
+  "maximum": 1226,
+  "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/minimumichiran/index.html",
+  "sourcePdfUrl": "https://www.mhlw.go.jp/content/11200000/001571192.pdf",
+  "sourceSha256": "a65722d895c2d69dcf370600d7ec115289e8db9d3355836a08df6c475032c6e2"
+}

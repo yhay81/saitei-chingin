@@ -1,0 +1,10 @@
+{
+  "name": "最低賃金くらべ",
+  "short_name": "最低賃金くらべ",
+  "description": "47都道府県の地域別最低賃金、上げ幅、発効日を比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1eee5",
+  "theme_color": "#26354a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

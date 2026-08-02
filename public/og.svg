@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f1eee5"/>
+  <rect x="45" y="45" width="1110" height="540" rx="34" fill="#fffdf7" stroke="#c3bfb3" stroke-width="3"/>
+  <text x="92" y="126" fill="#b65442" font-family="ui-monospace, monospace" font-size="18" font-weight="800" letter-spacing="3">47 PREFECTURES · 2025 EDITION</text>
+  <text x="92" y="205" fill="#1f2b3a" font-family="Yu Gothic UI, sans-serif" font-size="50" font-weight="800">最低賃金くらべ</text>
+  <text x="95" y="263" fill="#657080" font-family="Yu Gothic UI, sans-serif" font-size="24">時間額・上げ幅・発効日を、同じ目盛りで。</text>
+  <g transform="translate(95 335)">
+    <text y="-20" fill="#26354a" font-family="ui-monospace, monospace" font-size="18" font-weight="800">¥1,121 / HOUR · 全国加重平均</text>
+    <rect width="510" height="22" rx="11" fill="#dce4e8"/>
+    <rect width="246" height="22" rx="11" fill="#d4a73d"/>
+    <path d="M82-8V31" stroke="#b65442" stroke-width="4"/>
+    <text y="68" fill="#657080" font-family="ui-monospace, monospace" font-size="15">¥1,023</text>
+    <text x="445" y="68" fill="#657080" font-family="ui-monospace, monospace" font-size="15">¥1,226</text>
+  </g>
+  <g transform="translate(790 115)">
+    <rect width="260" height="380" rx="18" fill="#fff9e9" stroke="#26354a" stroke-width="4"/>
+    <circle cx="130" cy="113" r="72" fill="#dce4e8" stroke="#26354a" stroke-width="10"/>
+    <path d="M130 113V60M130 113l48 28" fill="none" stroke="#26354a" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="130" cy="113" r="10" fill="#b65442"/>
+    <path d="M34 229h192M34 272h192M34 315h192" stroke="#d4a73d" stroke-width="9" stroke-linecap="round"/>
+    <path d="M34 347h116" stroke="#26354a" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="95" y="540" fill="#26354a" font-family="ui-monospace, monospace" font-size="18" font-weight="800">MHLW REGIONAL MINIMUM WAGE TABLE</text>
+</svg>

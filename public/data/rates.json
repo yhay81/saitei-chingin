@@ -1,0 +1,472 @@
+[
+  {
+    "id": "JP-01",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "current": 1075,
+    "previous": 1010,
+    "increase": 65,
+    "increasePercent": 6.4,
+    "effective": "2025-10-04"
+  },
+  {
+    "id": "JP-02",
+    "prefecture": "青森県",
+    "region": "東北",
+    "current": 1029,
+    "previous": 953,
+    "increase": 76,
+    "increasePercent": 8.0,
+    "effective": "2025-11-21"
+  },
+  {
+    "id": "JP-03",
+    "prefecture": "岩手県",
+    "region": "東北",
+    "current": 1031,
+    "previous": 952,
+    "increase": 79,
+    "increasePercent": 8.3,
+    "effective": "2025-12-01"
+  },
+  {
+    "id": "JP-04",
+    "prefecture": "宮城県",
+    "region": "東北",
+    "current": 1038,
+    "previous": 973,
+    "increase": 65,
+    "increasePercent": 6.7,
+    "effective": "2025-10-04"
+  },
+  {
+    "id": "JP-05",
+    "prefecture": "秋田県",
+    "region": "東北",
+    "current": 1031,
+    "previous": 951,
+    "increase": 80,
+    "increasePercent": 8.4,
+    "effective": "2026-03-31"
+  },
+  {
+    "id": "JP-06",
+    "prefecture": "山形県",
+    "region": "東北",
+    "current": 1032,
+    "previous": 955,
+    "increase": 77,
+    "increasePercent": 8.1,
+    "effective": "2025-12-23"
+  },
+  {
+    "id": "JP-07",
+    "prefecture": "福島県",
+    "region": "東北",
+    "current": 1033,
+    "previous": 955,
+    "increase": 78,
+    "increasePercent": 8.2,
+    "effective": "2026-01-01"
+  },
+  {
+    "id": "JP-08",
+    "prefecture": "茨城県",
+    "region": "関東",
+    "current": 1074,
+    "previous": 1005,
+    "increase": 69,
+    "increasePercent": 6.9,
+    "effective": "2025-10-12"
+  },
+  {
+    "id": "JP-09",
+    "prefecture": "栃木県",
+    "region": "関東",
+    "current": 1068,
+    "previous": 1004,
+    "increase": 64,
+    "increasePercent": 6.4,
+    "effective": "2025-10-01"
+  },
+  {
+    "id": "JP-10",
+    "prefecture": "群馬県",
+    "region": "関東",
+    "current": 1063,
+    "previous": 985,
+    "increase": 78,
+    "increasePercent": 7.9,
+    "effective": "2026-03-01"
+  },
+  {
+    "id": "JP-11",
+    "prefecture": "埼玉県",
+    "region": "関東",
+    "current": 1141,
+    "previous": 1078,
+    "increase": 63,
+    "increasePercent": 5.8,
+    "effective": "2025-11-01"
+  },
+  {
+    "id": "JP-12",
+    "prefecture": "千葉県",
+    "region": "関東",
+    "current": 1140,
+    "previous": 1076,
+    "increase": 64,
+    "increasePercent": 5.9,
+    "effective": "2025-10-03"
+  },
+  {
+    "id": "JP-13",
+    "prefecture": "東京都",
+    "region": "関東",
+    "current": 1226,
+    "previous": 1163,
+    "increase": 63,
+    "increasePercent": 5.4,
+    "effective": "2025-10-03"
+  },
+  {
+    "id": "JP-14",
+    "prefecture": "神奈川県",
+    "region": "関東",
+    "current": 1225,
+    "previous": 1162,
+    "increase": 63,
+    "increasePercent": 5.4,
+    "effective": "2025-10-04"
+  },
+  {
+    "id": "JP-15",
+    "prefecture": "新潟県",
+    "region": "北陸甲信越",
+    "current": 1050,
+    "previous": 985,
+    "increase": 65,
+    "increasePercent": 6.6,
+    "effective": "2025-10-02"
+  },
+  {
+    "id": "JP-16",
+    "prefecture": "富山県",
+    "region": "北陸甲信越",
+    "current": 1062,
+    "previous": 998,
+    "increase": 64,
+    "increasePercent": 6.4,
+    "effective": "2025-10-12"
+  },
+  {
+    "id": "JP-17",
+    "prefecture": "石川県",
+    "region": "北陸甲信越",
+    "current": 1054,
+    "previous": 984,
+    "increase": 70,
+    "increasePercent": 7.1,
+    "effective": "2025-10-08"
+  },
+  {
+    "id": "JP-18",
+    "prefecture": "福井県",
+    "region": "北陸甲信越",
+    "current": 1053,
+    "previous": 984,
+    "increase": 69,
+    "increasePercent": 7.0,
+    "effective": "2025-10-08"
+  },
+  {
+    "id": "JP-19",
+    "prefecture": "山梨県",
+    "region": "北陸甲信越",
+    "current": 1052,
+    "previous": 988,
+    "increase": 64,
+    "increasePercent": 6.5,
+    "effective": "2025-12-01"
+  },
+  {
+    "id": "JP-20",
+    "prefecture": "長野県",
+    "region": "北陸甲信越",
+    "current": 1061,
+    "previous": 998,
+    "increase": 63,
+    "increasePercent": 6.3,
+    "effective": "2025-10-03"
+  },
+  {
+    "id": "JP-21",
+    "prefecture": "岐阜県",
+    "region": "東海",
+    "current": 1065,
+    "previous": 1001,
+    "increase": 64,
+    "increasePercent": 6.4,
+    "effective": "2025-10-18"
+  },
+  {
+    "id": "JP-22",
+    "prefecture": "静岡県",
+    "region": "東海",
+    "current": 1097,
+    "previous": 1034,
+    "increase": 63,
+    "increasePercent": 6.1,
+    "effective": "2025-11-01"
+  },
+  {
+    "id": "JP-23",
+    "prefecture": "愛知県",
+    "region": "東海",
+    "current": 1140,
+    "previous": 1077,
+    "increase": 63,
+    "increasePercent": 5.8,
+    "effective": "2025-10-18"
+  },
+  {
+    "id": "JP-24",
+    "prefecture": "三重県",
+    "region": "東海",
+    "current": 1087,
+    "previous": 1023,
+    "increase": 64,
+    "increasePercent": 6.3,
+    "effective": "2025-11-21"
+  },
+  {
+    "id": "JP-25",
+    "prefecture": "滋賀県",
+    "region": "近畿",
+    "current": 1080,
+    "previous": 1017,
+    "increase": 63,
+    "increasePercent": 6.2,
+    "effective": "2025-10-05"
+  },
+  {
+    "id": "JP-26",
+    "prefecture": "京都府",
+    "region": "近畿",
+    "current": 1122,
+    "previous": 1058,
+    "increase": 64,
+    "increasePercent": 6.0,
+    "effective": "2025-11-21"
+  },
+  {
+    "id": "JP-27",
+    "prefecture": "大阪府",
+    "region": "近畿",
+    "current": 1177,
+    "previous": 1114,
+    "increase": 63,
+    "increasePercent": 5.7,
+    "effective": "2025-10-16"
+  },
+  {
+    "id": "JP-28",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "current": 1116,
+    "previous": 1052,
+    "increase": 64,
+    "increasePercent": 6.1,
+    "effective": "2025-10-04"
+  },
+  {
+    "id": "JP-29",
+    "prefecture": "奈良県",
+    "region": "近畿",
+    "current": 1051,
+    "previous": 986,
+    "increase": 65,
+    "increasePercent": 6.6,
+    "effective": "2025-11-16"
+  },
+  {
+    "id": "JP-30",
+    "prefecture": "和歌山県",
+    "region": "近畿",
+    "current": 1045,
+    "previous": 980,
+    "increase": 65,
+    "increasePercent": 6.6,
+    "effective": "2025-11-01"
+  },
+  {
+    "id": "JP-31",
+    "prefecture": "鳥取県",
+    "region": "中国",
+    "current": 1030,
+    "previous": 957,
+    "increase": 73,
+    "increasePercent": 7.6,
+    "effective": "2025-10-04"
+  },
+  {
+    "id": "JP-32",
+    "prefecture": "島根県",
+    "region": "中国",
+    "current": 1033,
+    "previous": 962,
+    "increase": 71,
+    "increasePercent": 7.4,
+    "effective": "2025-11-17"
+  },
+  {
+    "id": "JP-33",
+    "prefecture": "岡山県",
+    "region": "中国",
+    "current": 1047,
+    "previous": 982,
+    "increase": 65,
+    "increasePercent": 6.6,
+    "effective": "2025-12-01"
+  },
+  {
+    "id": "JP-34",
+    "prefecture": "広島県",
+    "region": "中国",
+    "current": 1085,
+    "previous": 1020,
+    "increase": 65,
+    "increasePercent": 6.4,
+    "effective": "2025-11-01"
+  },
+  {
+    "id": "JP-35",
+    "prefecture": "山口県",
+    "region": "中国",
+    "current": 1043,
+    "previous": 979,
+    "increase": 64,
+    "increasePercent": 6.5,
+    "effective": "2025-10-16"
+  },
+  {
+    "id": "JP-36",
+    "prefecture": "徳島県",
+    "region": "四国",
+    "current": 1046,
+    "previous": 980,
+    "increase": 66,
+    "increasePercent": 6.7,
+    "effective": "2026-01-01"
+  },
+  {
+    "id": "JP-37",
+    "prefecture": "香川県",
+    "region": "四国",
+    "current": 1036,
+    "previous": 970,
+    "increase": 66,
+    "increasePercent": 6.8,
+    "effective": "2025-10-18"
+  },
+  {
+    "id": "JP-38",
+    "prefecture": "愛媛県",
+    "region": "四国",
+    "current": 1033,
+    "previous": 956,
+    "increase": 77,
+    "increasePercent": 8.1,
+    "effective": "2025-12-01"
+  },
+  {
+    "id": "JP-39",
+    "prefecture": "高知県",
+    "region": "四国",
+    "current": 1023,
+    "previous": 952,
+    "increase": 71,
+    "increasePercent": 7.5,
+    "effective": "2025-12-01"
+  },
+  {
+    "id": "JP-40",
+    "prefecture": "福岡県",
+    "region": "九州・沖縄",
+    "current": 1057,
+    "previous": 992,
+    "increase": 65,
+    "increasePercent": 6.6,
+    "effective": "2025-11-16"
+  },
+  {
+    "id": "JP-41",
+    "prefecture": "佐賀県",
+    "region": "九州・沖縄",
+    "current": 1030,
+    "previous": 956,
+    "increase": 74,
+    "increasePercent": 7.7,
+    "effective": "2025-11-21"
+  },
+  {
+    "id": "JP-42",
+    "prefecture": "長崎県",
+    "region": "九州・沖縄",
+    "current": 1031,
+    "previous": 953,
+    "increase": 78,
+    "increasePercent": 8.2,
+    "effective": "2025-12-01"
+  },
+  {
+    "id": "JP-43",
+    "prefecture": "熊本県",
+    "region": "九州・沖縄",
+    "current": 1034,
+    "previous": 952,
+    "increase": 82,
+    "increasePercent": 8.6,
+    "effective": "2026-01-01"
+  },
+  {
+    "id": "JP-44",
+    "prefecture": "大分県",
+    "region": "九州・沖縄",
+    "current": 1035,
+    "previous": 954,
+    "increase": 81,
+    "increasePercent": 8.5,
+    "effective": "2026-01-01"
+  },
+  {
+    "id": "JP-45",
+    "prefecture": "宮崎県",
+    "region": "九州・沖縄",
+    "current": 1023,
+    "previous": 952,
+    "increase": 71,
+    "increasePercent": 7.5,
+    "effective": "2025-11-16"
+  },
+  {
+    "id": "JP-46",
+    "prefecture": "鹿児島県",
+    "region": "九州・沖縄",
+    "current": 1026,
+    "previous": 953,
+    "increase": 73,
+    "increasePercent": 7.7,
+    "effective": "2025-11-01"
+  },
+  {
+    "id": "JP-47",
+    "prefecture": "沖縄県",
+    "region": "九州・沖縄",
+    "current": 1023,
+    "previous": 952,
+    "increase": 71,
+    "increasePercent": 7.5,
+    "effective": "2025-12-01"
+  }
+]
