@@ -21,7 +21,7 @@ const find = (prefecture: string) => rates.find((item) => item.prefecture === pr
 describe("official regional minimum-wage table", () => {
   it("retains verified source metadata and nationwide summary", () => {
     expect(index).toMatchObject({
-      asOf: "2026-08-01",
+      asOf: "2026-08-02",
       edition: "2025年度（令和7年度）",
       count: 47,
       regionCount: 9,

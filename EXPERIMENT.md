@@ -1,7 +1,7 @@
 # 35-day evaluation
 
-- Launch: 2026-08-01 JST
-- Review: 2026-09-05 JST
+- Launch: 2026-08-02 JST
+- Review: 2026-09-06 JST
 - Acquisition: Tool Shelf、GitHub、検索流入、自然共有のみ
 - Excluded: 自動QA、外部投稿、個別案内、コミュニティ持ち込み
 

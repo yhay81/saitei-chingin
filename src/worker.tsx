@@ -383,7 +383,7 @@ const SourcePage = () => (
         </div>
         <div>
           <span>現行確認</span>
-          <strong>2026年8月1日</strong>
+          <strong>2026年8月2日</strong>
           <a href={sourcePdf}>2025年度 全国一覧 PDF</a>
         </div>
         <div>
@@ -499,7 +499,7 @@ app.post("/api/telemetry", async (c) => {
 app.get("/health", async (c) => {
   const row = await c.env.DB.prepare("SELECT 1 AS ok").first<{ ok: number }>();
   return c.json({
-    asOf: "2026-08-01",
+    asOf: "2026-08-02",
     ok: row?.ok === 1,
     prefectures: 47,
     service: "saitei-chingin",

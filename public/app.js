@@ -244,7 +244,7 @@ copyCompare.addEventListener("click", async () => {
     );
   await navigator.clipboard.writeText(
     [
-      "地域別最低賃金 比較（2025年度版・2026年8月1日現行確認）",
+      "地域別最低賃金 比較（2025年度版・2026年8月2日現行確認）",
       ...lines,
       "参考額は時間額×入力時間の単純計算。最低賃金適合の判定には使えません。",
       "出典：厚生労働省「地域別最低賃金の全国一覧」",
@@ -275,7 +275,7 @@ fetch("/data/rates.json")
         .map((name) => `<option value="${escapeHtml(name)}">${escapeHtml(name)}</option>`)
         .join(""),
     );
-    dataStatus.textContent = "47都道府県 · 2025年度版 · 2026年8月1日現行確認";
+    dataStatus.textContent = "47都道府県 · 2025年度版 · 2026年8月2日現行確認";
     renderCompare();
     renderResults();
     track("visited");

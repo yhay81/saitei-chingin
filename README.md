@@ -3,7 +3,7 @@
 47都道府県の地域別最低賃金を探し、時間額、前年度からの上げ幅、発効日、入力時間との単純な積を最大4地域で比較する日本語Webサービスです。
 
 - Production: <https://saitei-chingin.yhay81.com>
-- Source: 厚生労働省「地域別最低賃金の全国一覧」2025年度版（2026年8月1日に現行表として確認）
+- Source: 厚生労働省「地域別最低賃金の全国一覧」2025年度版（2026年8月2日に現行表として確認）
 - Runtime: Cloudflare Workers + Hono JSX + Vite+ + D1
 - Account: 不要
 

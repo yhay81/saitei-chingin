@@ -7,7 +7,7 @@
 - 2025 edition PDF: <https://www.mhlw.go.jp/content/11200000/001571192.pdf>
 - Minimum wage Q&A: <https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/faq_saiteichingin.html>
 - Edition: 2025年度（令和7年度）
-- Current-table verification: 2026-08-01
+- Current-table verification: 2026-08-02
 - PDF: 41,566 bytes; SHA-256 `a65722d895c2d69dcf370600d7ec115289e8db9d3355836a08df6c475032c6e2`
 - Terms: 公共データ利用規約（第1.0版）
 - Terms page: <https://www.mhlw.go.jp/chosakuken/index.html>

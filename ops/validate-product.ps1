@@ -15,7 +15,7 @@ foreach ($Relative in $Required) {
 }
 
 $Index = Get-Content -Raw -LiteralPath (Join-Path $RepoRoot "public/data/index.json") | ConvertFrom-Json
-if ($Index.asOf -ne "2026-08-01" -or $Index.count -ne 47 -or $Index.regionCount -ne 9 -or $Index.weightedAverage -ne 1121) {
+if ($Index.asOf -ne "2026-08-02" -or $Index.count -ne 47 -or $Index.regionCount -ne 9 -or $Index.weightedAverage -ne 1121) {
     throw "Unexpected data index dimensions"
 }
 $DataPath = Join-Path $RepoRoot "public/data/rates.json"
